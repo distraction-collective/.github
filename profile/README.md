@@ -4,7 +4,4 @@ Distraction is a Paris-based collective of artists and designers delving into th
 
 This is the github organization centralizing all of our content.
 
-- [@distraction.fun](https://www.instagram.com/distraction.fun)
-- [IG group chat](https://www.instagram.com/direct/t/6112646205496507/)
-- [Discord Server](https://discord.gg/ZHffdXmK)
-- [distraction.fun](https://distraction.fun/)
+[Website](https://distraction.fun/) / [Instagram](https://www.instagram.com/distraction.fun) / [Itch](https://distraction-collective.itch.io/) / [distraction.collective@gmail.com](mailto:distraction.collective@gmail.com)
